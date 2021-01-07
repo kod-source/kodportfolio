@@ -1,0 +1,71 @@
+@media (max-width: 1024px) {
+  html {
+    font-size: 7px;
+  }
+
+  .logo h1 {
+    font-size: 50px;
+  }
+
+  .skill {
+    margin-top: 10rem;
+    margin-bottom: 5rem;
+  }
+
+  .card {
+    margin: 0 10px;
+  }
+
+  figure {
+    margin: 0 5px;
+  }
+}
+
+@media (max-width: 670px) {
+  html {
+    font-size: 5px;
+  }
+
+  .logo h1 {
+    font-size: 35px;
+  }
+
+  .logo h3 {
+    font-size: 20px;
+  }
+
+  .flag i {
+    font-size: 15px;
+    letter-spacing: 0;
+  }
+
+  main section {
+    /* margin-top: 7rem;
+    margin-bottom: 2rem; */
+  }
+
+  main > img {
+    width: 25rem;
+    height: 20rem;
+    margin-left: 5rem;
+  }
+
+  main > p {
+    margin-left: 35rem;
+  }
+
+  .skill {
+    margin-top: 10rem;
+    margin-bottom: 5rem;
+  }
+
+  .wrapper {
+    padding: 0 20px;
+  }
+
+  figure {
+    width: 50%;
+    height: 45rem;
+    margin: 1rem 0;
+  }
+}
