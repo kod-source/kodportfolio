@@ -90,7 +90,8 @@ main > p {
 
 .wrappers {
   background-color: white;
-  margin-bottom: 5rem;
+  margin: 0;
+  padding-bottom: 3rem;
   display: flex;
 }
 
@@ -123,7 +124,7 @@ main > p {
 figure {
   margin: 0 3rem;
   padding: 0;
-  width:40%;
+  width:25%;
   height: 35rem;
   border:3px groove gray;
   display: inline-block;
